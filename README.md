@@ -1,54 +1,43 @@
-
-<div> 
-<p><a href="https://github.com/JosiTubaroski/DataScience/blob/main/README.md">
- Inteligencia Artificial</a></p>
-</div> 
-
-
 # Chatbox
 
-### 💬 O que são chatbots
+[← Voltar](https://github.com/joycequoos/DataScience/blob/main/README.md)
 
-Um <b>chatbox</b> é um <b>programa de computador criado para conversar com pessoas</b>, geralmente por texto (como em chats, sites, WhatsApp, apps, etc.), simulando o diálogo humano.
+## O que são Chatbots
 
-O nome vem da junção de:
+Um **chatbot** é um programa de computador criado para conversar com pessoas, geralmente por texto (como em chats, sites, WhatsApp, aplicativos, entre outros), simulando o diálogo humano. O nome vem da junção de **chat** (conversa) + **bot** (robô).
 
-<b>chat(conversa) + bot(robô)</b>.
+## Como Eles Funcionam
 
-### ⚙️ Como eles funcionam
+Existem dois tipos principais de chatbots:
 
-Existem dois tipos principais:
+### 1. Chatbots Baseados em Regras
 
-<b>1. Chatbots baseados em regras 🧩</b>
+- Funcionam com **respostas pré-programadas**.
+- Exemplo: se o usuário digitar "Qual o horário de funcionamento", o chatbot busca uma resposta padrão configurada para essa pergunta específica.
+- São simples e previsíveis, porém limitados — não conseguem lidar bem com perguntas fora do padrão esperado.
 
-- Funcionam com <b>respostas pré-programadas</b>.
-- Exemplo: se você digitar "Qual o horário de funcionamento", ele busca uma resposta padrão configurada para essa pergunta.
-- São simples e previsíveis, mas limitadas.
+### 2. Chatbots com Inteligência Artificial
 
-<b>2. Chatbots com inteligência artificial (IA) 🤖</b>
+- Usam **processamento de linguagem natural (PLN/NLP)** e **aprendizado de máquina**.
+- Conseguem entender o contexto, interpretar intenções e gerar respostas novas — não apenas repetir respostas prontas.
 
-- Usam <b>processamento de linguagem natural (PNL/NLP)</b> e <b>aprendizado de máquina</b>.
-- Conseguem <b>entender o contexto</b>, interpretar intenções, e gerar respostas novas - não apenas repetidas.
+## O que um Chatbot Pode Fazer
 
-### 🧠 O que um chatbot pode fazer
+- **Atendimento automático** ao cliente (bancos, lojas, operadoras).
+- **Auxílio técnico** (suporte de TI, help desk).
+- **Assistência pessoal** (como Alexa, Google Assistant e Siri).
+- **Educação e aprendizado** (ajudar alunos com dúvidas, explicar temas).
+- **Automação de tarefas** (agendar reuniões, responder e-mails, enviar lembretes).
 
-- <b>Atendimento automático</b>  ao cliente (bancos, lojas, operadoras);
-- <b>Auxílio técnico</b> (suporte de TI, help desk);
-- <b>Assistência pessoal</b> (como a Alexa, Google Assistant, Siri);
-- <b>Educação e aprendizado</b> (ajudar alunos com dúvidas, explicar temas);
-- <b>Automação de tarefas</b> (agendar reuniões, responder e-mails, enviar lembretes).
+## Vantagens
 
-### 🚀 Vantagens
-
-- Funciona 24 horas por dia;
-- Reduz custos operacionais;
-- Responde rapidamente a muitas pessoas ao mesmo tempo;
+- Funciona 24 horas por dia.
+- Reduz custos operacionais.
+- Responde rapidamente a muitas pessoas ao mesmo tempo.
 - Melhora a experiência do usuário com respostas imediatas.
 
-### ⚠️ Limitações
+## Limitações
 
-- Pode <b>não entender nuances emocionais ou sarcasmo</b> (embora isso esteja melhorando muito);
-- Em sistemas simples, <b>erros de compreensão</b> podem gerar respostas incorretas;
-- Ainda dependem de supervisão humana em casos complexos.
-
-
+- Pode não entender nuances emocionais ou sarcasmo (embora isso esteja melhorando bastante).
+- Em sistemas mais simples, erros de compreensão podem gerar respostas incorretas.
+- Ainda depende de supervisão humana em casos complexos.
